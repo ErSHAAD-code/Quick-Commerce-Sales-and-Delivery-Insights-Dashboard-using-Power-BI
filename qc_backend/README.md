@@ -148,14 +148,6 @@ curl http://localhost:8000/api/analytics/kpi \
 
 ---
 
-## Sample Login Credentials (after seeding)
-
-| Role  | Email                        | Password  |
-|-------|------------------------------|-----------|
-| Admin | admin@blinkit.com            | admin123  |
-| User  | mohdshaad.861@gmail.com      | shaad123  |
-
----
 
 ## Uploading Blinkit Dataset
 
